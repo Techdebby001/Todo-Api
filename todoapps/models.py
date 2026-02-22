@@ -9,7 +9,7 @@ class Todo(models.Model):
     # completed-bool
     completed = models.BooleanField(default=False)
     # created-int
-    Created = models.DateTimeField(auto_now_add=True)
+    created = models.DateTimeField(auto_now_add=True)
     updated= models.DateTimeField(auto_now=True)
 
     def __str__(self):
