@@ -106,7 +106,6 @@ http://127.0.0.1:8000/
 ---
 ## SCREENSHOTS SECTIONS
 ### POSTMAN API TESTER
-<img width="1348" height="502" alt="Screenshot 2026-02-07 112216" src="https://github.com/user-attachments/assets/d1930a4b-fe22-4df2-8ec6-c24b6985e4af" />
 <img width="1216" height="631" alt="Screenshot 2026-02-07 112425" src="https://github.com/user-attachments/assets/6ff3f3d4-1e9c-457f-9023-7e2aa4fbc328" />
 <img width="1265" height="676" alt="Screenshot 2026-02-07 113329" src="https://github.com/user-attachments/assets/9d146f18-076e-4124-a478-dcac078350e9" />
 <img width="1228" height="603" alt="Screenshot 2026-02-07 113354" src="https://github.com/user-attachments/assets/51d85bb9-09a6-4e95-ad1f-2b7dd22e9e04" />
