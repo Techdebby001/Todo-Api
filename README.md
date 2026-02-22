@@ -52,6 +52,7 @@ Run the following command in your terminal (Git Bash, CMD, or Mac Terminal):
 
 ### 1️⃣ Clone the repository
 git clone https://github.com/Techdebby001/Todo-Api.git
+
 cd Todo-Api
 
 ---
@@ -104,10 +105,17 @@ http://127.0.0.1:8000/
 
 ---
 ## SCREENSHOTS SECTIONS
+### POSTMAN API TESTER
 <img width="1348" height="502" alt="Screenshot 2026-02-07 112216" src="https://github.com/user-attachments/assets/d1930a4b-fe22-4df2-8ec6-c24b6985e4af" />
 <img width="1216" height="631" alt="Screenshot 2026-02-07 112425" src="https://github.com/user-attachments/assets/6ff3f3d4-1e9c-457f-9023-7e2aa4fbc328" />
 <img width="1265" height="676" alt="Screenshot 2026-02-07 113329" src="https://github.com/user-attachments/assets/9d146f18-076e-4124-a478-dcac078350e9" />
 <img width="1228" height="603" alt="Screenshot 2026-02-07 113354" src="https://github.com/user-attachments/assets/51d85bb9-09a6-4e95-ad1f-2b7dd22e9e04" />
-<img width="1272" height="680" alt="Screenshot 2026-02-07 112108" src="https://github.com/user-attachments/assets/50613a77-40bf-4c6d-8f3e-f3295bc0e1fe" />
+
+### FRONTEND INTERFACE
+<img width="1098" height="341" alt="Screenshot 2026-02-07 115848" src="https://github.com/user-attachments/assets/b49eae36-8070-4881-8ea4-94701f5e8073" />
+
+### BROWSER PAGE
+<img width="1314" height="574" alt="Screenshot 2026-02-07 114341" src="https://github.com/user-attachments/assets/48ee2b12-1e30-4b2c-a28f-67763b544450" />
+
 
 
