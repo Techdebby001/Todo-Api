@@ -116,5 +116,13 @@ http://127.0.0.1:8000/
 ### BROWSER PAGE
 <img width="1314" height="574" alt="Screenshot 2026-02-07 114341" src="https://github.com/user-attachments/assets/48ee2b12-1e30-4b2c-a28f-67763b544450" />
 
+---
 
+## 👤 Author
+
+**UGWOKE-EZEJA AMARACHI**  
+Backend Developer | Python & Django  
+
+- GitHub: https://github.com/Techdebby001 
+- LinkedIn: www.linkedin.com/in/amarachi-ugwoke-147828325
 
